@@ -43,5 +43,5 @@ This project uses data analysis and machine learning to uncover actionable insig
 
 ---
 
-## **Takeaways**
+## **Conclusion**
 This project strengthened my skills in data analysis, preprocessing, and predictive modeling while addressing a real-world business problem. It highlighted the value of storytelling with data—from cleaning and analysis to presenting insights visually and through machine learning models.
