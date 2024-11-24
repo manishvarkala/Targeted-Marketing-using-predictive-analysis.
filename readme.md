@@ -18,7 +18,7 @@ This project uses data analysis and machine learning to uncover actionable insig
   - Built and evaluated multiple models for predicting purchase intent:
     - **Linear Regression**: Provided insights into key traits influencing purchase behavior.  
     - **Random Forest Classification**: Achieved a 90% accuracy rate in identifying high-potential buyers, outperforming Naive Bayes.  
-![Performance Metrics](images/PerformanceMetrics.png)
+![Performance Metrics](Images/PerformanceMetrics.png)
 - **Visualization**:  
   - Created visualizations such as histograms, correlation heatmaps, and confusion matrices to make the findings easily interpretable.
   
