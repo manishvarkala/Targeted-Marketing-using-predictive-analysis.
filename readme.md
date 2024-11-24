@@ -23,7 +23,7 @@ This project uses data analysis and machine learning to uncover actionable insig
   - Created visualizations such as histograms, correlation heatmaps, and confusion matrices to make the findings easily interpretable.
   
 ![Likert Scale ](Images/Likertscale.png)
-![ROC Curve ](images/ROCcurve.png)
+![ROC Curve ](Images/ROCCurve.png)
 ---
 
 ## **Technologies Used**
